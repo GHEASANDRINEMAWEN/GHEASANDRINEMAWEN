@@ -3,11 +3,11 @@
 
 ### About Me
 
-I am a passionate Data Analyst and aspiring data scientists in Kigali, Rwanda. My journey in data science is driven by my commitment to leveraging AI and data to support businesses and empower startups. I am dedicated to using data to create meaningful impacts, especially in the fields of sustainability, entrepreneurship, and technological innovation.
+I am a passionate Data Analyst and aspiring data scientists and Machine Learning Engineer in Kigali, Rwanda. My journey in data science is driven by my commitment to leveraging AI and data to support businesses and empower startups. I am dedicated to using data to create meaningful impacts, especially in the fields of sustainability, entrepreneurship, and technological innovation.
 
 ### 🔭 Current Projects
 
-- **[Ganz Africa Data Dashboard](https://aiarl9-didier-ngamije.shinyapps.io/LandTransactionDashboard/)**:: Developed a data analysis dashboard for Rwanda's National Land Authority to improve land tracing and management.
+- **[Ganz Africa Data Dashboard](https://aiarl9-didier-ngamije.shinyapps.io/LandTransactionDashboard/)**:: Developed an automated data analysis dashboard for Rwanda's National Land Authority to improve land tracing and management, here is the static version for Kigali District.
 - **[Kumva Insights Crop Recommendation System])**: Created a machine learning-based system to assist local farmers in Rwanda with crop selection, boosting agricultural productivity.
 
 

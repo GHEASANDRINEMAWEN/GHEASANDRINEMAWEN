@@ -9,7 +9,7 @@ I am a passionate Data Analyst and aspiring data scientists and Machine Learning
 
 - **[Ganz Africa Data Dashboard](https://rwandalanddashboard.lands.rw/)**:: Developed an automated data analysis dashboard for Rwanda's National Land Authority to improve land tracing and management, here is the static version for Kigali District.
 - **[Kumva Insights Crop Recommendation System])**: Created a machine learning-based system to assist local farmers in Rwanda with crop selection, boosting agricultural productivity.
-- **[GIS Dashbaord](https://www.arcgis.com/apps/dashboards/d785f15b04534786a7535f71ad4d25e7)**
+
 
 
 ### 🌱 What I’m Learning

@@ -1,4 +1,4 @@
-## Hi there, I'm Ghea Sandrine Mawen 👋
+## Hi there, I'm Ghea Sandrine Mawen 
 
 
 ### About Me
@@ -12,13 +12,13 @@ I am a passionate Data Analyst and aspiring data scientists and Machine Learning
 
 
 
-### 🌱 What I’m Learning
+### What I’m Learning
 
 - Advanced data visualization techniques using **Power BI** and **Tableau**.
 - Predictive modeling and machine learning with **scikit-learn** and **TensorFlow**.
 - Enhancing my skills in **SQL** and **NoSQL** databases.
 
-### 💼 Professional Experience
+###  Professional Experience
 
 - **Data Science Fellow at [Ganz Africa](https://ganzafrica.org/)**
   - Created a revolutionary land tracing system for Rwanda's National Land Authority using Python and data analysis techniques.
@@ -27,12 +27,12 @@ I am a passionate Data Analyst and aspiring data scientists and Machine Learning
   - Designed a Crop Selection Recommendation System for local Rwandan farmers, leveraging advanced machine learning algorithms.
 
 
-### 📫 Connect with Me
+###  Connect with Me
 
 - **LinkedIn**: [Ghea Sandrine Mawen](https://www.linkedin.com/in/ghea-sandrine-mawen-076185211/)
 - **Email**: gheasandrinecmu@gmail.com
 
-### 💻 Languages and Tools
+###  Languages and Tools
 
 - **Programming Languages**: Python, SQL
 - **Data Analysis Tools**: pandas, NumPy, Matplotlib, Power BI, Google Sheets
